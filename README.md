@@ -9,4 +9,5 @@ PEAQ
 KREST
 NXRA
 WECO
+wsteth
 rwa.xyz
