@@ -10,4 +10,4 @@ KREST
 NXRA
 WECO
 rwa.xyz
-plume rwa l2
+plume l2
