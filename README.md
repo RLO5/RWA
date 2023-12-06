@@ -1,6 +1,6 @@
 # RWA
 RWA Projects
-here i will gather web3 projects working on rwa
+This repository serves as a curated collection of innovative Web3 projects focused on Real World Assets (RWA)
 
 RIO
 LEOX
