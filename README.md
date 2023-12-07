@@ -23,5 +23,4 @@ plume l2
 
 5-@realio_network $RIO, the Realio Network Utility Token. RIO is a cryptocurrency and utility token for the Realio Network and platform. Delegating to Realio Network validators for block rewards
 
--- check these 5 projects Market Cap in the Thread 
 -- all of them are low cap
